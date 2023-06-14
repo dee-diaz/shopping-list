@@ -23,13 +23,6 @@ The goal of this project is to create a web application that allows users to cre
 - CSS3: Styling and appearance of the web page.
 - Vanilla JS: The project utilizes plain JavaScript without any frameworks or libraries.
 
-## Project Structure
-
-shopping-list
-├── index.html
-├── style.css
-└── script.js
-
 ## Acknowledgements
 
 This project is based on the "Modern JS Course" by Traversy Media. The course provides in-depth guidance on JavaScript development and covers various topics and techniques for building modern web applications.
